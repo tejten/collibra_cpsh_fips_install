@@ -24,4 +24,4 @@ This project is licensed under the MIT License.
 
 ## Credits
 
-Repository structure follows the same lightweight GitHub pattern as the referenced Tej Tenmattam CPSH deployment runbook repository, adapted here for the CPSH FIPS installation flow.
+Original material by Tej Tenmattam (Version 01, March 13, 2026).
